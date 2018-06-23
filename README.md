@@ -58,7 +58,7 @@ Struktur Package pada program ini menggunakan pola MVC yakni Model, View, dan Co
 | Membuat MainPanel | v | | | 
 | Membuat SearchPanel | v | | | 
 | Membuat ResultPanel | v | | | 
-| Membuat Retriever | v | | |
+| Membuat Retriever | | v | |
 | Membuat Display | v | | |
 | Membuat Unit Test | v | | |
 | Membuat Analisis Design Quality Metrics | v | | |
