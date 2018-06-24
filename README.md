@@ -52,7 +52,7 @@ Struktur Package pada program ini menggunakan pola MVC yakni Model, View, dan Co
 
 | Pekerjaan | Akan Dikerjakan | Sedang Dikerjakan | Sudah Dikerjakan |
 | --- | --- | --- | --- |
-| Membuat package | v | | | 
+| Membuat package | | | v | 
 | Membuat main class | v | | | 
 | Membuat weather class | v | | | 
 | Membuat MainPanel | v | | | 
